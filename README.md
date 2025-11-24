@@ -10,7 +10,7 @@
 💡 I love working with **web technologies**, **AI**, and **creative coding**  
 🌱 Currently exploring `Machine Learning`, `Next.js`, and `DevOps`  
 🎯 Always open to **collaborate** on exciting open-source projects  
-✉️ Reach me at: kaziadibmahmud@gmail.com  
+✉️ Reach me at: kamytbd@gmail.com
 
 ---
 
